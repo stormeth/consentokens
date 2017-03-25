@@ -4,7 +4,10 @@ This is a fork of
 
 https://github.com/ConsenSys/Tokens
 
-Remember you can not deploy abstract contracts in Truffle like Token.
+Remember you can not deploy
+[abstract]
+(http://solidity.readthedocs.io/en/develop/contracts.html#abstract-contracts)
+contracts in Truffle like Token.
 It took me awhile to figure out why Token would not deploy and I was
 getting this error message with it...
 
